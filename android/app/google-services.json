@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "67597173204",
+    "project_id": "muslimkid2",
+    "storage_bucket": "muslimkid2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67597173204:android:5ddb021be65358bfddd641",
+        "android_client_info": {
+          "package_name": "me.sincera.muslim_kid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67597173204-8qsg20ge1fv040m6iojjig28okujng1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwTyCN7NJNyvEcl4mdy9n2a-SKfB0F3V8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "67597173204-8qsg20ge1fv040m6iojjig28okujng1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

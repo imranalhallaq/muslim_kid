@@ -40,7 +40,7 @@ class MyApp extends StatelessWidget {
           WelcomeScreen.id: (context) => WelcomeScreen()
         },
         theme: ThemeData.dark(),
-        home: LoadingScreen(),
+        home: WelcomeScreen(),
       ),
     );
   }

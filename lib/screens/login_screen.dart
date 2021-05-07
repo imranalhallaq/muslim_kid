@@ -101,7 +101,7 @@ class _LoginScreenState extends State<LoginScreen> {
                             BorderRadius.all(Radius.circular(2)),
                         headerAnimationLoop: false,
                         animType: AnimType.BOTTOMSLIDE,
-                        title: 'Error',
+                        title: 'Errr',
                         desc: 'Email or Password are not correct',
                         showCloseIcon: true,
                         btnCancelOnPress: () {},
